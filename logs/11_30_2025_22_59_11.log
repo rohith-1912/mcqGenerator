@@ -1,0 +1,1 @@
+[2025-11-30 23:02:04,471] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
